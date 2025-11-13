@@ -198,3 +198,9 @@ footer {
   background: #0d47a1;
   color: white;
 }
+<!-- Website Logo Start -->
+<div style="text-align:center; margin-top:20px;">
+  <img src="A_logo_for_My_Unique_Services_specializing_in_pr.png" alt="My Unique Services Logo" width="150" style="border-radius:12px;">
+  <h1 style="font-family: Arial, sans-serif; margin-top:10px;">My Unique Services</h1>
+</div>
+<!-- Website Logo End -->
